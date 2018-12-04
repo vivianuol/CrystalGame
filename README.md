@@ -6,6 +6,6 @@
 - The value of each crystal is hidden from you until you click on it.
 - Each time when the game starts, the game will change the values of each crystal.
 
-Wanna play the game? **Click [this](https://vivianuol.github.io/unit-4-game/)**
+Wanna play the game? **Click [this](https://vivianuol.github.io/CrystalGame/)**
 
 **Good luck!!**
